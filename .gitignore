@@ -13,3 +13,6 @@
 .externalNativeBuild
 .cxx
 local.properties
+# Secret files
+app/google-services.json
+web/index.html
